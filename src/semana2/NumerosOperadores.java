@@ -2,7 +2,7 @@ package semana2;
 
 import java.util.Scanner;
 
-public class CodigoClase2 {
+public class NumerosOperadores {
 
 	public static void main(String[] args) {
 		int numero1 = 10;
